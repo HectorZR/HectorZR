@@ -21,7 +21,6 @@ I'm a software developer currently living in Venezuela. I love coding and resolv
 ![Python](https://img.shields.io/badge/-python-00599python?style=for-the-badge&logo=python&color=darkblue&logoColor=white)
 ![Dart](https://img.shields.io/badge/-dart-00599dart?style=for-the-badge&logo=dart&logoColor=white&color=darkblue)
 ![Flutter](https://img.shields.io/badge/-flutter-00599flutter?style=for-the-badge&logo=flutter&logoColor=white&color=blue)
-![Node.js](https://img.shields.io/badge/-node.js-00599nodejs?style=for-the-badge&logo=node.js&logoColor=white&color=darkgreen)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-00599ubuntu?style=for-the-badge&logo=ubuntu&logoColor=white&color=red)
 ![Windows](https://img.shields.io/badge/-windows-00599windows?style=for-the-badge&logo=windows&logoColor=white&color=blue)
 
