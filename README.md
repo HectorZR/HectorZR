@@ -6,7 +6,6 @@ I'm a software developer currently living in Venezuela. I love coding and resolv
 ### Some interesting stats 🤓
 ![HectorZR's github stats](https://github-readme-stats.vercel.app/api?username=HectorZR&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&hide=vue,objective-c,shell,kotlin&langs_count=10)
-![HectorZR's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HectorZ&theme=onedark)
 
 ### The infinity stones I have deals with
 ![Git](https://img.shields.io/badge/-git-00599git?style=for-the-badge&logo=git&color=red&logoColor=white)
