@@ -7,7 +7,7 @@ I'm a software developer currently living in Venezuela. I love coding and resolv
 ![HectorZR's github stats](https://github-readme-stats.vercel.app/api?username=HectorZR&theme=onedark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&hide=vue,objective-c,shell,kotlin&langs_count=10)
 
-### The infinity stones I have deals with
+### The Infinity Stones I have deals with
 ![Git](https://img.shields.io/badge/-git-00599git?style=for-the-badge&logo=git&color=red&logoColor=white)
 ![HTML](https://img.shields.io/badge/-html-00599html?style=for-the-badge&logo=html5&logoColor=white&color=red)
 ![css](https://img.shields.io/badge/-css-00599css?style=for-the-badge&logo=css3&logoColor=white&color=blue)
