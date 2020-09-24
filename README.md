@@ -15,6 +15,7 @@ I'm a software developer currently living in Venezuela. I love coding and resolv
 <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
 <img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" width="25px" height="25px"/>
