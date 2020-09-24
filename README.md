@@ -8,21 +8,26 @@ I'm a software developer currently living in Venezuela. I love coding and resolv
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&hide=vue,objective-c,shell,kotlin&langs_count=10)
 
 ### The Infinity Stones I have deals with 💻
-![Git](https://img.shields.io/badge/-git-00599git?style=for-the-badge&logo=git&color=red&logoColor=white)
-![HTML](https://img.shields.io/badge/-html-00599html?style=for-the-badge&logo=html5&logoColor=white&color=red)
-![css](https://img.shields.io/badge/-css-00599css?style=for-the-badge&logo=css3&logoColor=white&color=blue)
-![JS](https://img.shields.io/badge/-js-00599js?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
-![Node.js](https://img.shields.io/badge/-node.js-00599nodejs?style=for-the-badge&logo=node.js&logoColor=white&color=darkgreen)
-![React](https://img.shields.io/badge/-react-00599react?style=for-the-badge&logo=react&logoColor=white&color=blue)
-![PHP](https://img.shields.io/badge/-php-00599php?style=for-the-badge&logo=php&logoColor=white&color=darkblue)
-![Laravel](https://img.shields.io/badge/-laravel-00599laravel?style=for-the-badge&logo=laravel&logoColor=white&color=red)
-![Postgresql](https://img.shields.io/badge/-postgresql-00599postgresql?style=for-the-badge&logo=postgresql&logoColor=white&color=darkblue)
-![Go](https://img.shields.io/badge/-go-00599go?style=for-the-badge&logo=go&logoColor=white&color=blue)
-![Python](https://img.shields.io/badge/-python-00599python?style=for-the-badge&logo=python&color=darkblue&logoColor=white)
-![Dart](https://img.shields.io/badge/-dart-00599dart?style=for-the-badge&logo=dart&logoColor=white&color=darkblue)
-![Flutter](https://img.shields.io/badge/-flutter-00599flutter?style=for-the-badge&logo=flutter&logoColor=white&color=blue)
-![Ubuntu](https://img.shields.io/badge/-ubuntu-00599ubuntu?style=for-the-badge&logo=ubuntu&logoColor=white&color=red)
-![Windows](https://img.shields.io/badge/-windows-00599windows?style=for-the-badge&logo=windows&logoColor=white&color=blue)
+<p>
+<img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/php/php-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/laravel/laravel-plain-wordmark.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/postgresql/postgresql-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/go/go-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/python/python-original.svg" width="25px" height="25px"/>
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25px" height="25px"/>
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/github/github-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/gitlab/gitlab-original.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/ubuntu/ubuntu-plain.svg" width="25px" height="25px"/>
+<img src="https://devicon.dev/devicon.git/icons/windows8/windows8-original.svg" width="25px" height="25px"/>
+</p>
 
 PS: I need more than one Infinity Gauntlet. 😂
 <!--
