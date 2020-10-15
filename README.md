@@ -5,7 +5,7 @@ I'm a software developer currently living in Venezuela. I love coding and resolv
 
 ### Some interesting stats 🤓
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&hide=vue,objective-c,shell,kotlin&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&hide=vue,objective-c,shell,kotlin,java&langs_count=10"/>
   <img src="https://github-readme-stats.vercel.app/api?username=HectorZR&theme=onedark&hide=stars&cache_seconds=1800"/>
 </div>
 
@@ -16,6 +16,7 @@ I'm a software developer currently living in Venezuela. I love coding and resolv
   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
+  <img src="https://devicon.dev/devicon.git/icons/webpack/webpack-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/react/react-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/redux/redux-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/electron/electron-original.svg" width="25px" height="25px"/>
