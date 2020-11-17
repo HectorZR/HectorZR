@@ -1,7 +1,7 @@
 # Hi there, I'm Hector! 👋
 
 ### A little about me 🧑🏻
-I'm a software developer currently living in Venezuela. I love coding and resolving problems with code. I always say if it works at first running there is something wrong, that's why I check twice before commit.
+I'm a software developer currently living in Venezuela. I love coding and solving problems with code. I always say if it works at first running there is something wrong, that's why I check twice before commit.
 
 ### Some interesting stats 🤓
 <div>
