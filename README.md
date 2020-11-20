@@ -5,7 +5,7 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
 
 ### Some interesting stats 🤓
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&hide=vue,objective-c,shell,kotlin,java,rust&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&langs_count=10"/>
   <img src="https://github-readme-stats.vercel.app/api?username=HectorZR&theme=onedark&hide=stars&cache_seconds=1800"/>
 </div>
 
