@@ -11,26 +11,26 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
 
 ### The Infinity Stones I have dealt with 💻
 <p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="25px" height="25px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original.svg" width="25px" height="25px"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/javascript.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="25px" height="25px"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="25px" height="25px"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" height="30px"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original.svg" width="30px" height="30px"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/javascript.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" height="30px"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="55px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="25px" height="25px"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="25px" height="25px"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/microsoft-windows.svg" width="25px" height="25px"/>
+  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="30px" height="30px"/>
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/microsoft-windows.svg" width="30px" height="30px"/>
 </p>
 
 PS: I need more than one Infinity Gauntlet. 😂
