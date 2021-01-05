@@ -11,8 +11,8 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
 
 ### The Infinity Stones I have dealt with 💻
 <p>
-  <img src="https://devicon.dev/devicon.git/icons/git/git-original.svg" width="25px" height="25px"/>
-  <img src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" width="25px" height="25px"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25px" height="25px"/>
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" width="25px" height="25px"/>
   <img src="https://devicon.dev/devicon.git/icons/nodejs/nodejs-original.svg" width="25px" height="25px"/>
