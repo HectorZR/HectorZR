@@ -32,6 +32,9 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="30px" height="30px"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/microsoft-windows.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="30px" height="30px"/>
 </p>
 
 PS: I need more than one Infinity Gauntlet. 😂
