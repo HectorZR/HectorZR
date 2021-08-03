@@ -15,6 +15,7 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" height="30px"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original.svg" width="30px" height="30px"/>
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/javascript.svg" width="30px" height="30px"/>
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" height="30px"/>
