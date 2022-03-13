@@ -38,3 +38,5 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
 </p>
 
 PS: I need more than one Infinity Gauntlet. 😂
+
+<a href="https://app.daily.dev/HectorZR"><img src="https://api.daily.dev/devcards/28566ca18a5946389bc40ac346e6bae5.png?r=v37" width="400" alt="Hector Zurga's Dev Card"/></a>
