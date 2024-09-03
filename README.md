@@ -1,15 +1,24 @@
 # Hi there, I'm Hector! 👋
 
-### A little about me 🧑🏻
+## A little about me 🧑🏻
 I'm a software developer currently living in Venezuela. I love coding and solving problems with code. I always say if it works at first running there is something wrong, that's why I check twice before commit.
 
-### Some interesting stats 🤓
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&langs_count=10"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HectorZR&theme=onedark&hide=stars&cache_seconds=1800"/>
-</div>
+## A little about my skills 🧑🏻‍💻
+Here I will describe the tools I use in a daily basis or the ones I am learning.
 
-### The Infinity Stones I have dealt with 💻
+### Current stack
+- ReactJS
+- NodeJS
+- ExpressJS
+- PostgreSQL
+
+
+### Currently learning
+- Rust <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" width="30px" />
+
+
+
+### Some of the tools I have dealt with 💻
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" height="30px"/>
@@ -24,10 +33,6 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
   <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="55px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/golang/golang-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="30px" height="30px"/>
@@ -37,6 +42,8 @@ I'm a software developer currently living in Venezuela. I love coding and solvin
   <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="30px" height="30px"/>
 </p>
 
-PS: I need more than one Infinity Gauntlet. 😂
-
-<a href="https://app.daily.dev/HectorZR"><img src="https://api.daily.dev/devcards/28566ca18a5946389bc40ac346e6bae5.png?r=v37" width="400" alt="Hector Zurga's Dev Card"/></a>
+## Some interesting stats 🤓
+<div>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&langs_count=10"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HectorZR&theme=onedark&hide=stars&cache_seconds=1800"/>
+</div>
