@@ -18,7 +18,7 @@ Here I will describe the tools I use in a daily basis or the ones I am learning.
 
 
 
-### Some of the tools I have dealt with 💻
+### Some of the tools I have worked with 💻
 <p>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px" height="30px"/>
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" height="30px"/>
