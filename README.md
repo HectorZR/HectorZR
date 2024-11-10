@@ -1,49 +1,33 @@
-# Hi there, I'm Hector! 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hector Zurga
+====================================================================================================================================
 
-## A little about me 🧑🏻
-I'm a software developer currently living in Venezuela. I love coding and solving problems with code. I always say if it works at first running there is something wrong, that's why I check twice before commit.
+Software Developer | System Engineer
+------------------------------------
 
-## A little about my skills 🧑🏻‍💻
-Here I will describe the tools I use in a daily basis or the ones I am learning.
+I'm a software developer currently living in Colombia as a Digital Nomad. I love coding and solving problems with code. I always say if it works at first running there is something wrong, that's why I check twice before commit. Professionally, I've programming for 6+ years so far. I've done, backend, frontend and now I'm focusing more about sharping my current skills while improving them through software architecture bases
 
-### Current stack
-- ReactJS
-- NodeJS
-- ExpressJS
-- PostgreSQL
+* 🌍  I'm based in Colombia (Digital Nomad)
+* 🖥️  See my portfolio at [here](https://hectorzurga.com)
+* ✉️  You can contact me at [me@hectorzurga.com](mailto:me@hectorzurga.com)
+* 🧠  I'm learning Golang and software architecture
+* 🤝  I'm open to collaborating on projects that help developers and people in general
 
-
-### Currently learning
-- Rust <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg" width="30px" />
+### Skills
 
 
-
-### Some of the tools I have worked with 💻
-<p>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="30px" height="30px"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/css3/css3-original.svg" width="30px" height="30px"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/javascript.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="30px" height="30px"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/redux.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="55px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/laravel/laravel-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" width="30px" height="30px"/>
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/17261479e64d27613dfd2f71e66eefae38b3d698/logos/microsoft-windows.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/neovimio/neovimio-icon.svg" width="30px" height="30px"/>
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="30px" height="30px"/>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
 </p>
 
-## Some interesting stats 🤓
-<div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&theme=onedark&layout=compact&langs_count=10"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HectorZR&theme=onedark&hide=stars&cache_seconds=1800"/>
-</div>
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/hectorzr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/HectorZR" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hectorzr" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/12570957/hector" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/HectorZR"><img src="https://github-readme-stats.vercel.app/api?username=HectorZR&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="HectorZR's GitHub stats" /></a>
+
+<a href="https://github.com/HectorZR" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorZR&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
