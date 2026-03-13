@@ -8,8 +8,8 @@ I'm a software developer currently living in Colombia as a Digital Nomad. I love
 
 * 🌍  I'm based in Colombia (Digital Nomad)
 * 🖥️  See my portfolio at [here](https://hectorzurga.com)
-* ✉️  You can contact me at [me@hectorzurga.com](mailto:me@hectorzurga.com)
-* 🧠  I'm learning Golang and software architecture
+* ✉️  You can contact me at [hi@hectorzurga.com](mailto:hi@hectorzurga.com)
+* 🧠  I'm learning game development just for fun
 * 🤝  I'm open to collaborating on projects that help developers and people in general
 
 ### Skills
