@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | System Engineer
 ------------------------------------
 
-I'm a software developer currently living in Colombia as a Digital Nomad. I love coding and solving problems with code. I always say if it works at first running there is something wrong, that's why I check twice before commit. Professionally, I've programming for 6+ years so far. I've done, backend, frontend and now I'm focusing more about sharping my current skills while improving them through software architecture bases
+I'm a software developer currently based in Colombia as a Digital Nomad. I love coding and solving problems with code. I always say if it works at first running there is something wrong, that's why I check twice before commit. Professionally, I've programming for 8+ years so far. I've done, backend, frontend and now I'm focusing more about sharping my current skills while improving them through software architecture bases
 
-* 🌍  I'm based in Colombia (Digital Nomad)
+* 🌍  I'm based in Colombia
 * 🖥️  See my portfolio at [here](https://hectorzurga.com)
 * ✉️  You can contact me at [hi@hectorzurga.com](mailto:hi@hectorzurga.com)
 * 🧠  I'm learning game development just for fun
